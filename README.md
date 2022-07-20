@@ -1,2 +1,2 @@
 # memories
-https://splendorous-cendol-4c0693.netlify.app/
+https://memory-collection.netlify.app/
